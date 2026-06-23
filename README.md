@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mona Mohamed👋
 
-<!--
-**mona-120/mona-120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Exploring different fields of technology
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on gaining internship opportunities, strengthening my technical and soft skills, and continuously improving my problem-solving abilities through competitive programming.
+
+## Connect With Me
+
+* LinkedIn: [(https://www.linkedin.com/in/monamohamed-07bb13340/)]
+* Codeforces: [https://codeforces.com/profile/mona1206)]
+* E-Mail: [monamo20006@gmail.com]
