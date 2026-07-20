@@ -3,6 +3,7 @@
 🎓 Computer Science Student
 
 💻 Exploring different fields of technology
+     Full stack .NET Developer.
 
 ## About Me
 
