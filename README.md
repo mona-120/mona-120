@@ -2,9 +2,9 @@
 
 🎓 Computer Science Student
 
-💻 Exploring different fields of technology
+💻 Full Stack .NET Developer
      
-Full stack .NET Developer
+  -> Exploring different fields of technology
 
 ## About Me
 
