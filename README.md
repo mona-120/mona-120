@@ -4,7 +4,7 @@
 
 💻 Exploring different fields of technology
      
-     Full stack .NET Developer.
+Full stack .NET Developer
 
 ## About Me
 
