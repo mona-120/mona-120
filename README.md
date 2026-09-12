@@ -1,22 +1,48 @@
-# Hi, I'm Mona Mohamed 👋
+<div align="center">
+  <h1>Hi there, I'm Mona Mohamed 👋</h1>
+  <h3>Backend .NET Developer | CS Student | Competitive Programmer</h3>
+  <p>Building scalable backend solutions and solving complex algorithmic challenges.</p>
+  
+  <a href="[https://www.linkedin.com/in/mona-mohamed-07bb13340/]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="[https://codeforces.com/profile/mona1206]">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="mailto:[monamo20006@gmail.com]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-**3rd-Year Computer Science Student | Backend .NET Developer | Competitive Programmer**
+<br/>
 
-Currently, I'm focused on gaining internship opportunities, strengthening my technical and soft skills, and continuously improving my problem-solving abilities. 
+## 👩‍💻 About Me
 
-### 👨‍💻 About Me
-- 🎓 Studying Computer Science at Zagazig University.
-- 💡 Actively building Backend projects using the **.NET Ecosystem**.
-- 🚀 Passionate about Data Structures, Algorithms, and clean Object-Oriented Design.
-- 🌱 Currently learning more about **ASP.NET Core Web APIs** and **Entity Framework Core**.
-- 📫 How to reach me: **[YOUR_EMAIL@gmail.com]**
+* 🎓 **3rd-Year Computer Science Student** at Zagazig University with a strong focus on Software Engineering.
+* 💻 **Backend Focused:** Building my expertise in the **.NET ecosystem** (C#, ASP.NET Core, Entity Framework Core, SQL Server).
+* 🏆 **Problem Solver:** Competitive programmer who loves applying **OOP** and **Data Structures** concepts to real-world challenges.
+* 💼 **Looking Forward:** Always eager to learn from industry professionals, contribute to collaborative environments, and grow as a Software Engineer.
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Databases & Architecture:**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-339933?style=for-the-badge&logo=entity-framework&logoColor=white) ![OOP](https://img.shields.io/badge/Architecture-OOP-blue?style=for-the-badge)
+
+**Tools & Version Control:**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 📈 GitHub Activity
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mona-120&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mona-120&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,13 +60,13 @@ Currently, I'm focused on gaining internship opportunities, strengthening my tec
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank">
+  <a href="[https://www.linkedin.com/in/mona-mohamed-07bb13340/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[YOUR_CODEFORCES_URL]" target="_blank">
+  <a href="[https://codeforces.com/profile/mona1206]" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="mailto:[YOUR_EMAIL@gmail.com]" target="_blank">
+  <a href="mailto:[monamo20006@gmail@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
