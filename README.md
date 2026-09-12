@@ -16,9 +16,9 @@
   <a href="https://codeforces.com/profile/mona1206">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="mailto:monamo20006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:monamo20006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>
 
 <br/>
@@ -27,8 +27,6 @@
 
 * 🎓 **3rd-Year Computer Science Student** at Zagazig University with a strong focus on Software Engineering.
 * 💻 **Backend Focused:** Building my expertise in the **.NET ecosystem** (C#, ASP.NET Core, Entity Framework Core, SQL Server).
-* 🏆 **Problem Solver:** Competitive programmer who loves applying **OOP** and **Data Structures** concepts to real-world challenges.
-* 🚀 **Trained Professional:** Recently refined my software development skills through an intensive training program at **ITI (Information Technology Institute)**.
 * 💼 **Goal:** Passionate about applying my technical skills to real-world challenges, collaborating with tech teams, and exploring new professional opportunities.
 
 ---
